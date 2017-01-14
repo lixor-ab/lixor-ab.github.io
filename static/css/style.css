@@ -1,0 +1,275 @@
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+  font-weight: normal;
+  line-height: 1.37;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #ff4476;
+}
+
+li a {
+  margin: 4px 0;
+  margin: 0.25rem 0;
+  display: inline-block; /* TODO: good idea? */
+}
+
+header {
+  margin: 0;
+  padding-top: 32px;
+  padding-top: 2rem;
+  padding-bottom: 64px;
+  padding-bottom: 4rem;
+  background: #e5dac5;
+  position: relative;
+}
+
+.header-graphics {
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  max-width: 375px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%)
+}
+
+
+.header-graphics-v2 {
+  display: none;
+  position: absolute;
+  top: 25%;
+  max-width: 375px;
+  left: 50%;
+  -webkit-transform: translateX(-50%) scale(2);
+          transform: translateX(-50%) scale(2);
+  z-index: 1;
+}
+
+/*
+{
+  background: var(--beige);
+  padding: 1rem 0;
+  color: rgba(0, 0, 0, 0.7);
+}
+*/
+.section-container {
+  background: #e5dac5;
+}
+.section-container.expanded {
+  background: #7f4e99;
+}
+.section-container.expanded .section {
+  color: rgba(255, 255, 255, .8);
+}
+.section-container.expanded .section h3 {
+  color: #ffd48c;
+}
+/* just section then right :) */
+.section-container > * {
+  max-width: 375px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-container:last-of-type {
+  padding-bottom: 24px;
+  padding-bottom: 1.5rem;
+}
+
+footer {
+  background: #000000;
+  color: #ff4476;
+  padding: 48px 24px 64px;
+  padding: 3rem 1.5rem 4rem;
+  position: relative;
+  overflow: hidden;
+}
+footer > * {
+  max-width: 375px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+.footer-graphics {
+  position: absolute;
+  top: 25%;
+  max-width: 375px;
+  left: 50%;
+  -webkit-transform: translateX(-50%) scale(2);
+          transform: translateX(-50%) scale(2);
+}
+
+.footer-graphics-container {
+  overflow: hidden;
+
+}
+
+.section {
+  margin: 0 auto;
+  padding: 24px 16px 24px 40px;
+  padding: 1.5rem 1rem 1.5rem 2.5rem;
+  position: relative;
+  color: rgba(0, 0, 0, .7);
+  max-width: 375px;
+}
+
+/* TODO: do something more explicit size-wise? */
+.section:before {
+  position: absolute;
+  content: "•";
+  color: #ff4476;
+  font-family: serif;
+  font-size: 80px;
+  font-size: 5rem;
+  left: 8px;
+  left: 0.5rem;
+  top: 28.8px;
+  top: 1.8rem;
+  line-height: 24px;
+  line-height: 1.5rem; /* ugly */
+}
+
+.section h2 {
+  margin-top: 0; /* nasty fix for footer spacing */
+  display: inline-block;
+  font-weight: normal;
+  font-size: 32px;
+  font-size: 2rem;
+  margin-bottom: 12px;
+  margin-bottom: 0.75rem;
+  line-height: 32px;
+  line-height: 2rem;
+}
+
+.section h3 {
+  font-weight: normal;
+  margin-bottom: 4px;
+  margin-bottom: 0.25rem;
+}
+
+.section h2+p {
+  margin-top: 0;
+}
+
+.section p {
+  margin: 0;
+}
+.section p+p {
+  margin-top: 8px;
+  margin-top: 0.5rem;
+}
+
+/* TODO: what character - and what to do in expanded section? */
+/* might as well do css circle + any arrow? */
+.section .section-summary p:last-of-type:after {
+  content: "➜";
+  color: #ff4476;
+  font-size: 20px;
+  font-size: 1.25rem;
+  line-height: 16px;
+  line-height: 1rem;
+  vertical-align: middle; /* sub */
+  font-family: sans-serif;
+}
+
+.section-container.expanded .section .section-summary p:last-of-type:after {
+  display: none;
+}
+
+.section .section-body {
+  display: none;
+}
+
+.section-container.expanded .section-body {
+  display: block;
+}
+
+.section .read-more {
+  text-decoration: none;
+  color: #ff4476;
+  font-family: serif;
+}
+
+footer .quote {
+  font-family: 'Lora', serif;
+  font-size: 28px;
+  font-size: 1.75rem;
+  text-align: center;
+  margin-bottom: 16px;
+  margin-bottom: 1rem;
+}
+
+footer .quote-source {
+  color: #ffd48c;
+  text-align: center;
+}
+
+footer .mail-container {
+  text-align: center;
+}
+footer .highfive-mail {
+  display: inline-block;
+  padding: 8px 16px;
+  padding: 0.5rem 1rem;
+  background: #ffd48c;
+  color: #000000;
+  text-decoration: none;
+  border-radius: 0.5rem;
+}
+
+.h1-hidden {
+  display: none;
+}
+
+/* TODO: sort out the logo :) */
+.logo {
+  color: #000000;
+  font-family: "Helvetica Neue";
+  font-weight: 900;
+  line-height: 0.9;
+  padding: 16px;
+  padding: 1rem;
+  font-size: 72px;
+  font-size: 4.5rem;
+  text-align: center;
+}
+.logo--footer {
+  color: #ffffff;
+  font-size: 28px;
+  font-size: 1.75rem;
+  margin-top: 64px;
+  margin-top: 4rem;
+  margin-bottom: 32px;
+  margin-bottom: 2rem;
+}
+.logo--normal {
+  display: inline-block;
+}
+
+.logo--flip {
+  display: inline-block;
+  -webkit-transform: scale(-1, -1);
+          transform: scale(-1, -1);
+  margin-left: -17.6px;
+  margin-left: -1.1rem;
+}
+
+.logo--dot {
+  color: #ff4476;
+  font-family: serif;
+  line-height: 0; /* TODO: hack */
+  z-index: -1;
+}
