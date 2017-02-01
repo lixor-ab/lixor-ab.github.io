@@ -19,6 +19,11 @@
 &lt;p&gt;Spotify, Klarna och Bonnier är några av våra kunder. Men det finns fler!
 &lt;/p&gt;
 
+&lt;div class=&#34;image-container customer-logo customer-logo--skandia&#34;&gt;
+  &lt;img src=&#34;media/logo/skandia.svg&#34;&gt;
+&lt;/div&gt;
+
+
 &lt;h3 id=&#34;skandia&#34;&gt;Skandia&lt;/h3&gt;
 
 &lt;p&gt;Skandias marknadsavdelning stod inför en agil transformation. Så här kickstartade vi deras nya agila arbetsätt:&lt;/p&gt;
@@ -29,7 +34,17 @@
 &lt;li&gt;Coacha o bolla med ledningsgruppen så att de kunde fortsätta driva processen själva.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Wow det är precis det här jag är ute efter!&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;button&#34;&gt;
+  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Låter som något vi behöver!&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;image-container customer-logo&#34;&gt;
+  &lt;img src=&#34;media/logo/spotify.svg&#34;&gt;
+&lt;/div&gt;
+
 
 &lt;h3 id=&#34;spotify&#34;&gt;Spotify&lt;/h3&gt;
 
@@ -42,9 +57,19 @@
 
 &lt;h4 id=&#34;se-videon-spotify-engineering-culture-part-1-här-https-www-youtube-com-watch-v-mpsn3wai-4k&#34;&gt;Se videon &lt;a href=&#34;https://www.youtube.com/watch?v=Mpsn3WaI_4k&#34;&gt;Spotify Engineering Culture part 1 här&lt;/a&gt;&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Låter som något vi behöver!&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;button&#34;&gt;
+  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Låter som något vi behöver!&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;klarna&#34;&gt;KLarna&lt;/h3&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;image-container customer-logo&#34;&gt;
+  &lt;img src=&#34;media/logo/klarna.svg&#34;&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;klarna&#34;&gt;Klarna&lt;/h3&gt;
 
 &lt;p&gt;Klarna är ledande inom fintech och växer riktigt snabbt med bibehållen lönsamhet. Lixor har bidragit till detta genom att:&lt;/p&gt;
 
@@ -53,7 +78,17 @@
 &lt;li&gt;Lixors arbetssätt blev grunden för ett standardiserat sätt att jobba med projekt.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Det är som att läsa min egen önskelista!&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;button&#34;&gt;
+  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Det är som att läsa min egen önskelista!&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;image-container customer-logo&#34;&gt;
+  &lt;img src=&#34;media/logo/bonnier.svg&#34;&gt;
+&lt;/div&gt;
+
 
 &lt;h3 id=&#34;bonnier&#34;&gt;Bonnier&lt;/h3&gt;
 
@@ -65,7 +100,17 @@
 &lt;li&gt;Prototyper, agil plannering och många skratt.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Ge mig ! Ge mig! Ge mig!&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;button&#34;&gt;
+  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Ge mig ! Ge mig! Ge mig!&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;image-container customer-logo&#34;&gt;
+  &lt;img src=&#34;media/logo/expressen.svg&#34;&gt;
+&lt;/div&gt;
+
 
 &lt;h3 id=&#34;expressen&#34;&gt;Expressen&lt;/h3&gt;
 
@@ -77,9 +122,17 @@
 &lt;li&gt;Talent management (hitta, rekrytera och behålla kollegor).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Min organisation står också inför en stor förändring!&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;button&#34;&gt;
+  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Min organisation står också inför en stor förändring!&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Allt det där låter ju toppen men jag är fortfarande inte säker på hur Lixor kan hjälpa mig.&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;button&#34;&gt;
+  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Allt det där låter ju toppen men jag är fortfarande inte säker på hur Lixor kan hjälpa mig.&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;</description>
     </item>
     
     <item>
