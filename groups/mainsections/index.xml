@@ -35,7 +35,7 @@
 &lt;/ul&gt;
 
 &lt;div class=&#34;button&#34;&gt;
-  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?{{ (querify&#34; title=&#34;subject&amp;quot; &amp;quot;Jag vill veta mer!&amp;quot; &amp;quot;body&amp;quot; &amp;quot;Blir inte bättre än så här&#34;&gt;Jag vill veta mer!&lt;/a&gt; | safeURL }})&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?subject=Jag%20vill%20veta%20mer&amp;amp;body=Blir%20inte%20b%C3%A4ttre%20%C3%A4n%20s%C3%A5%20h%C3%A4r&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
