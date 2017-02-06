@@ -2,39 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.lixor.se/section/offer/</loc>
+    <loc>https://lixor-ab.github.io/customers/skandia/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/offer/small/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/team-lixor/ylva/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/offer/medium/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/team-lixor/rut/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/customers/spotify/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/customers/klarna/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/offer/mixor/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/team-lixor/torfinn/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/customers/bonnier/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/team-lixor/lisbeth/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/customers/expressen/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/customers/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/offer/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/team-lixor/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lixor-ab.github.io/</loc>
     <lastmod>2016-12-25T22:30:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lixor.se/section/customers/</loc>
-    <lastmod>2016-12-25T22:30:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.lixor.se/</loc>
-    <lastmod>2016-12-25T22:30:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.lixor.se/section/team-lixor/</loc>
-    <lastmod>2016-12-25T22:30:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.lixor.se/groups/</loc>
+    <loc>https://lixor-ab.github.io/groups/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.lixor.se/groups/mainsections/</loc>
-    <lastmod>2016-12-25T22:30:39+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.lixor.se/section/</loc>
-    <lastmod>2016-12-25T22:30:39+01:00</lastmod>
+    <loc>https://lixor-ab.github.io/groups/mainsections/</loc>
+    <lastmod>2017-02-04T20:11:12+01:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -2,72 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lixor</title>
-    <link>http://www.lixor.se/index.xml</link>
+    <link>https://lixor-ab.github.io/index.xml</link>
     <description>Recent content on Lixor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Sun, 25 Dec 2016 22:30:39 +0100</lastBuildDate>
-    <atom:link href="http://www.lixor.se/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lixor-ab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Erbjudande</title>
-      <link>http://www.lixor.se/section/offer/</link>
-      <pubDate>Sun, 25 Dec 2016 22:30:39 +0100</pubDate>
+      <title>skandia</title>
+      <link>https://lixor-ab.github.io/customers/skandia/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
       
-      <guid>http://www.lixor.se/section/offer/</guid>
-      <description>&lt;h2 id=&#34;erbjudande&#34;&gt;Erbjudande.&lt;/h2&gt;
-
-&lt;p&gt;Small, Medium eller Mixor? Det väljer du här.
-&lt;/p&gt;
-
-&lt;h3 id=&#34;small&#34;&gt;Small&lt;/h3&gt;
-
-&lt;p&gt;En samskapande dag där vi kan:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sitta ner tillsammans med er och arbeta kring något konkret&lt;/li&gt;
-&lt;li&gt;Workshops med upplevelsebaserat lärande.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;button&#34;&gt;
-  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Berätta mer!&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-
-&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
-
-&lt;p&gt;Ett 12-veckorsprogram för agil transformation&lt;/p&gt;
-
-&lt;div class=&#34;button&#34;&gt;
-  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Berätta mer!&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-
-&lt;h3 id=&#34;mixor&#34;&gt;Mixor&lt;/h3&gt;
-
-&lt;p&gt;Have fun blowing your mind! Ta in en eller flera av våra konsulter i din organisation om du vill ha kul, växa och
-se resultat!&lt;/p&gt;
-
-&lt;div class=&#34;button&#34;&gt;
-  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Berätta mer!&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Kunder</title>
-      <link>http://www.lixor.se/section/customers/</link>
-      <pubDate>Sun, 25 Dec 2016 22:30:39 +0100</pubDate>
-      
-      <guid>http://www.lixor.se/section/customers/</guid>
-      <description>&lt;h2 id=&#34;kunder&#34;&gt;Kunder.&lt;/h2&gt;
-
-&lt;p&gt;Spotify, Klarna och Bonnier är några av våra kunder. Men det finns fler!
-&lt;/p&gt;
+      <guid>https://lixor-ab.github.io/customers/skandia/</guid>
+      <description>
 
 &lt;div class=&#34;image-container customer-logo customer-logo--skandia&#34;&gt;
   &lt;img src=&#34;media/logo/skandia.svg&#34;&gt;
@@ -84,12 +32,125 @@ se resultat!&lt;/p&gt;
 &lt;li&gt;Coacha o bolla med ledningsgruppen så att de kunde fortsätta driva processen själva.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&#34;button&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;button&#34;&gt;
   &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?subject=Jag%20vill%20veta%20mer&amp;amp;body=Blir%20inte%20b%C3%A4ttre%20%C3%A4n%20s%C3%A5%20h%C3%A4r&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>small</title>
+      <link>https://lixor-ab.github.io/offer/small/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
+      
+      <guid>https://lixor-ab.github.io/offer/small/</guid>
+      <description>
 
+&lt;h3 id=&#34;small&#34;&gt;Small&lt;/h3&gt;
+
+&lt;p&gt;En samskapande dag där vi kan:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sitta ner tillsammans med er och arbeta kring något konkret&lt;/li&gt;
+&lt;li&gt;Workshops med upplevelsebaserat lärande.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;button&#34;&gt;
+  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Berätta mer!&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>ylva</title>
+      <link>https://lixor-ab.github.io/team-lixor/ylva/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
+      
+      <guid>https://lixor-ab.github.io/team-lixor/ylva/</guid>
+      <description>
+
+&lt;div class=&#34;team-member-photo&#34;&gt;
+  &lt;a href=&#34;https://se.linkedin.com/in/ylvafredriksson&#34;&gt;
+    &lt;img src=&#34;media/image/ylva.jpg&#34;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;ylva-fredriksson&#34;&gt;Ylva Fredriksson&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Hur gör vi det här 100 gånger bättre samtidigt som vi har kul”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:ylva.fredriksson@lixor.se&#34;&gt;ylva.fredriksson@lixor.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;tel:+46739853353&#34;&gt;073-985 33 53&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>medium</title>
+      <link>https://lixor-ab.github.io/offer/medium/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
+      
+      <guid>https://lixor-ab.github.io/offer/medium/</guid>
+      <description>
+
+&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
+
+&lt;p&gt;Ett 12-veckorsprogram för agil transformation&lt;/p&gt;
+
+&lt;div class=&#34;button&#34;&gt;
+  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Berätta mer!&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>rut</title>
+      <link>https://lixor-ab.github.io/team-lixor/rut/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
+      
+      <guid>https://lixor-ab.github.io/team-lixor/rut/</guid>
+      <description>
+
+&lt;div class=&#34;team-member-photo&#34;&gt;
+  &lt;a href=&#34;https://se.linkedin.com/in/rutandersson&#34;&gt;
+    &lt;img src=&#34;media/image/rut.jpg&#34;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;rut-andersson&#34;&gt;Rut Andersson&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Orädd effektmakare med systembaserat ledarskap och sociala medier som bread n butter.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:rut.anderson@lixor.se&#34;&gt;rut.anderson@lixor.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;tel:+46708779756&#34;&gt;070-877 97 56&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>spotify</title>
+      <link>https://lixor-ab.github.io/customers/spotify/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
+      
+      <guid>https://lixor-ab.github.io/customers/spotify/</guid>
+      <description>
 
 &lt;div class=&#34;image-container customer-logo&#34;&gt;
   &lt;img src=&#34;media/logo/spotify.svg&#34;&gt;
@@ -107,12 +168,22 @@ se resultat!&lt;/p&gt;
 
 &lt;p&gt;Se videon &lt;a href=&#34;https://www.youtube.com/watch?v=Mpsn3WaI_4k&#34;&gt;Spotify Engineering Culture part 1 här&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&#34;button&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;button&#34;&gt;
   &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
-
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>klarna</title>
+      <link>https://lixor-ab.github.io/customers/klarna/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
+      
+      <guid>https://lixor-ab.github.io/customers/klarna/</guid>
+      <description>
 
 &lt;div class=&#34;image-container customer-logo&#34;&gt;
   &lt;img src=&#34;media/logo/klarna.svg&#34;&gt;
@@ -128,12 +199,72 @@ se resultat!&lt;/p&gt;
 &lt;li&gt;Lixors arbetssätt blev grunden för ett standardiserat sätt att jobba med projekt.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&#34;button&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;button&#34;&gt;
   &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mixor</title>
+      <link>https://lixor-ab.github.io/offer/mixor/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
+      
+      <guid>https://lixor-ab.github.io/offer/mixor/</guid>
+      <description>
 
+&lt;h3 id=&#34;mixor&#34;&gt;Mixor&lt;/h3&gt;
+
+&lt;p&gt;Have fun blowing your mind! Ta in en eller flera av våra konsulter i din organisation om du vill ha kul, växa och
+se resultat!&lt;/p&gt;
+
+&lt;div class=&#34;button&#34;&gt;
+  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Berätta mer!&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>torfinn</title>
+      <link>https://lixor-ab.github.io/team-lixor/torfinn/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
+      
+      <guid>https://lixor-ab.github.io/team-lixor/torfinn/</guid>
+      <description>
+
+&lt;div class=&#34;team-member-photo&#34;&gt;
+  &lt;a href=&#34;https://se.linkedin.com/in/torfinn&#34;&gt;
+    &lt;img src=&#34;media/image/torfinn.jpg&#34;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;torfinn-almers&#34;&gt;Torfinn Almers&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Tänkande och visualiserande designleder vars bidrag alltid förhöjer resultatet.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:torfinn.almers@lixor.se&#34;&gt;torfinn.almers@lixor.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;tel:+46707659464&#34;&gt;070-765 94 64&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bonnier</title>
+      <link>https://lixor-ab.github.io/customers/bonnier/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
+      
+      <guid>https://lixor-ab.github.io/customers/bonnier/</guid>
+      <description>
 
 &lt;div class=&#34;image-container customer-logo&#34;&gt;
   &lt;img src=&#34;media/logo/bonnier.svg&#34;&gt;
@@ -150,12 +281,50 @@ se resultat!&lt;/p&gt;
 &lt;li&gt;Prototyper, agil plannering och många skratt.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&#34;button&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;button&#34;&gt;
   &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>lisbeth</title>
+      <link>https://lixor-ab.github.io/team-lixor/lisbeth/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
+      
+      <guid>https://lixor-ab.github.io/team-lixor/lisbeth/</guid>
+      <description>
 
+&lt;div class=&#34;team-member-photo&#34;&gt;
+  &lt;a href=&#34;https://se.linkedin.com/in/?&#34;&gt;
+    &lt;img src=&#34;media/image/lisbeth.jpg&#34;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;lisbeth-hedberg&#34;&gt;Lisbeth Hedberg&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Varför nöja sig med en häst när du kan rida in på en enhörning”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:lisbeth.hedberg@lixor.se&#34;&gt;lisbeth.hedberg@lixor.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;tel:+46707659464&#34;&gt;070-765 94 64&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>expressen</title>
+      <link>https://lixor-ab.github.io/customers/expressen/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
+      
+      <guid>https://lixor-ab.github.io/customers/expressen/</guid>
+      <description>
 
 &lt;div class=&#34;image-container customer-logo&#34;&gt;
   &lt;img src=&#34;media/logo/expressen.svg&#34;&gt;
@@ -172,112 +341,13 @@ se resultat!&lt;/p&gt;
 &lt;li&gt;Talent management (hitta, rekrytera och behålla kollegor).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&#34;button&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;button&#34;&gt;
   &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
 
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Team Lixor</title>
-      <link>http://www.lixor.se/section/team-lixor/</link>
-      <pubDate>Sun, 25 Dec 2016 22:30:39 +0100</pubDate>
-      
-      <guid>http://www.lixor.se/section/team-lixor/</guid>
-      <description>&lt;h2 id=&#34;team-lixor&#34;&gt;Team Lixor.&lt;/h2&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Med Lixor får du rätt känsla och driv i projekten – kunskapen får du på köpet.
-Kolla in de som jobbar här.
 &lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;team-member team-member-ylva&#34;&gt;
-
-  &lt;div class=&#34;team-member-photo&#34;&gt;
-    &lt;a href=&#34;https://se.linkedin.com/in/ylvafredriksson&#34;&gt;
-      &lt;img src=&#34;media/image/ylva.jpg&#34;&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;h3 id=&#34;ylva-fredriksson&#34;&gt;Ylva Fredriksson&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;“Hur gör vi det här 100 gånger bättre samtidigt som vi har kul”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:ylva.fredriksson@lixor.se&#34;&gt;ylva.fredriksson@lixor.se&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;tel:+46739853353&#34;&gt;073-985 33 53&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-&lt;div class=&#34;team-member team-member-rut&#34;&gt;
-
-  &lt;div class=&#34;team-member-photo&#34;&gt;
-    &lt;a href=&#34;https://se.linkedin.com/in/rutandersson&#34;&gt;
-      &lt;img src=&#34;media/image/rut.jpg&#34;&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;h3 id=&#34;rut-andersson&#34;&gt;Rut Andersson&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Orädd effektmakare med systembaserat ledarskap och sociala medier som bread n butter.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:rut.anderson@lixor.se&#34;&gt;rut.anderson@lixor.se&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;tel:+46708779756&#34;&gt;070-877 97 56&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-&lt;div class=&#34;team-member team-member-torfinn&#34;&gt;
-
-  &lt;div class=&#34;team-member-photo&#34;&gt;
-    &lt;a href=&#34;https://se.linkedin.com/in/torfinn&#34;&gt;
-      &lt;img src=&#34;media/image/torfinn.jpg&#34;&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;h3 id=&#34;torfinn-almers&#34;&gt;Torfinn Almers&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Tänkande och visualiserande designleder vars bidrag alltid förhöjer resultatet.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:torfinn.almers@lixor.se&#34;&gt;torfinn.almers@lixor.se&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;tel:+46707659464&#34;&gt;070-765 94 64&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-&lt;div class=&#34;team-member team-member-lisbeth&#34;&gt;
-
-  &lt;div class=&#34;team-member-photo&#34;&gt;
-    &lt;a href=&#34;https://se.linkedin.com/in/?&#34;&gt;
-      &lt;img src=&#34;media/image/lisbeth.jpg&#34;&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;h3 id=&#34;lisbeth-hedberg&#34;&gt;Lisbeth Hedberg&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;“Varför nöja sig med en häst när du kan rida in på en enhörning”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:lisbeth.hedberg@lixor.se&#34;&gt;lisbeth.hedberg@lixor.se&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;tel:+46707659464&#34;&gt;070-765 94 64&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-&lt;/p&gt;</description>
+</description>
     </item>
     
   </channel>

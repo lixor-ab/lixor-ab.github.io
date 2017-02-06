@@ -2,281 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mainsections on Lixor</title>
-    <link>http://www.lixor.se/groups/mainsections/index.xml</link>
+    <link>https://lixor-ab.github.io/groups/mainsections/index.xml</link>
     <description>Recent content in Mainsections on Lixor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <atom:link href="http://www.lixor.se/groups/mainsections/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lixor-ab.github.io/groups/mainsections/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Kunder</title>
-      <link>http://www.lixor.se/section/customers/</link>
-      <pubDate>Sun, 25 Dec 2016 22:30:39 +0100</pubDate>
+      <title>customers</title>
+      <link>https://lixor-ab.github.io/customers/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
       
-      <guid>http://www.lixor.se/section/customers/</guid>
-      <description>&lt;h2 id=&#34;kunder&#34;&gt;Kunder.&lt;/h2&gt;
+      <guid>https://lixor-ab.github.io/customers/</guid>
+      <description>
 
-&lt;p&gt;Spotify, Klarna och Bonnier är några av våra kunder. Men det finns fler!
-&lt;/p&gt;
+&lt;h2 id=&#34;kunder&#34;&gt;Kunder.&lt;/h2&gt;
 
-&lt;div class=&#34;image-container customer-logo customer-logo--skandia&#34;&gt;
-  &lt;img src=&#34;media/logo/skandia.svg&#34;&gt;
-&lt;/div&gt;
-
-
-&lt;h3 id=&#34;skandia&#34;&gt;Skandia&lt;/h3&gt;
-
-&lt;p&gt;Skandias marknadsavdelning stod inför en agil transformation. Så här kickstartade vi deras nya agila arbetsätt:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Utbilda inom agilt och leant med upplevelsebaserat lärande.&lt;/li&gt;
-&lt;li&gt;Ta fram mätbara mål och en 12-veckorsplan tillsammans med ledningsgruppen.&lt;/li&gt;
-&lt;li&gt;Coacha o bolla med ledningsgruppen så att de kunde fortsätta driva processen själva.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;button&#34;&gt;
-  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?subject=Jag%20vill%20veta%20mer&amp;amp;body=Blir%20inte%20b%C3%A4ttre%20%C3%A4n%20s%C3%A5%20h%C3%A4r&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-
-&lt;div class=&#34;image-container customer-logo&#34;&gt;
-  &lt;img src=&#34;media/logo/spotify.svg&#34;&gt;
-&lt;/div&gt;
-
-
-&lt;h3 id=&#34;spotify&#34;&gt;Spotify&lt;/h3&gt;
-
-&lt;p&gt;Spotify är en av Sveriges snabbst växande unga företag med en agil organisation som nått framgång genom att arbeta på ett agilt och prestigelöst sätt. Lixor hjälper Spotify med:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Agil coachning.&lt;/li&gt;
-&lt;li&gt;Skapa tydlighet och mening genom att arbeta måldrivet med tydlig uppföljning.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Se videon &lt;a href=&#34;https://www.youtube.com/watch?v=Mpsn3WaI_4k&#34;&gt;Spotify Engineering Culture part 1 här&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&#34;button&#34;&gt;
-  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-
-&lt;div class=&#34;image-container customer-logo&#34;&gt;
-  &lt;img src=&#34;media/logo/klarna.svg&#34;&gt;
-&lt;/div&gt;
-
-
-&lt;h3 id=&#34;klarna&#34;&gt;Klarna&lt;/h3&gt;
-
-&lt;p&gt;Klarna är ledande inom fintech och växer riktigt snabbt med bibehållen lönsamhet. Lixor har bidragit till detta genom att:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Leverera Klarnas högst prioriterade projekt på tid och budget.&lt;/li&gt;
-&lt;li&gt;Lixors arbetssätt blev grunden för ett standardiserat sätt att jobba med projekt.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;button&#34;&gt;
-  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-
-&lt;div class=&#34;image-container customer-logo&#34;&gt;
-  &lt;img src=&#34;media/logo/bonnier.svg&#34;&gt;
-&lt;/div&gt;
-
-
-&lt;h3 id=&#34;bonnier&#34;&gt;Bonnier&lt;/h3&gt;
-
-&lt;p&gt;Bonnier ville ta fram en ny digital produkt för barn med eböcker och ljudböcker. Lixor gjorde detta genom att:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bygga ett litet tvärfunktionellt team för product disocovery och utveckling.&lt;/li&gt;
-&lt;li&gt;Lean UX med användartester varje vecka.&lt;/li&gt;
-&lt;li&gt;Prototyper, agil plannering och många skratt.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;button&#34;&gt;
-  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-
-&lt;div class=&#34;image-container customer-logo&#34;&gt;
-  &lt;img src=&#34;media/logo/expressen.svg&#34;&gt;
-&lt;/div&gt;
-
-
-&lt;h3 id=&#34;expressen&#34;&gt;Expressen&lt;/h3&gt;
-
-&lt;p&gt;På mindre än ett år byggde vi en agil utvecklingsavdelning från 0 till 50 anställda och 7 tvärfuktionella team. Lixor bidrog till detta genom att:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Coacha organisationen.&lt;/li&gt;
-&lt;li&gt;Hjälpa ledningsgruppen arbeta måldrivet med en 12-veckorsplan och täta uppföljningar.&lt;/li&gt;
-&lt;li&gt;Talent management (hitta, rekrytera och behålla kollegor).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;button&#34;&gt;
-  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;</description>
+&lt;p&gt;Spotify, Klarna och Bonnier är några av våra kunder. Men det finns fler!&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Erbjudande</title>
-      <link>http://www.lixor.se/section/offer/</link>
-      <pubDate>Sun, 25 Dec 2016 22:30:39 +0100</pubDate>
+      <title>kunder</title>
+      <link>https://lixor-ab.github.io/offer/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
       
-      <guid>http://www.lixor.se/section/offer/</guid>
-      <description>&lt;h2 id=&#34;erbjudande&#34;&gt;Erbjudande.&lt;/h2&gt;
+      <guid>https://lixor-ab.github.io/offer/</guid>
+      <description>
 
-&lt;p&gt;Small, Medium eller Mixor? Det väljer du här.
-&lt;/p&gt;
+&lt;h2 id=&#34;erbjudande&#34;&gt;Erbjudande.&lt;/h2&gt;
 
-&lt;h3 id=&#34;small&#34;&gt;Small&lt;/h3&gt;
-
-&lt;p&gt;En samskapande dag där vi kan:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sitta ner tillsammans med er och arbeta kring något konkret&lt;/li&gt;
-&lt;li&gt;Workshops med upplevelsebaserat lärande.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;button&#34;&gt;
-  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Berätta mer!&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-
-&lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
-
-&lt;p&gt;Ett 12-veckorsprogram för agil transformation&lt;/p&gt;
-
-&lt;div class=&#34;button&#34;&gt;
-  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Berätta mer!&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-
-&lt;h3 id=&#34;mixor&#34;&gt;Mixor&lt;/h3&gt;
-
-&lt;p&gt;Have fun blowing your mind! Ta in en eller flera av våra konsulter i din organisation om du vill ha kul, växa och
-se resultat!&lt;/p&gt;
-
-&lt;div class=&#34;button&#34;&gt;
-  &lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se&#34;&gt;Berätta mer!&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;</description>
+&lt;p&gt;Small, Medium eller Mixor? Det väljer du här.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Team Lixor</title>
-      <link>http://www.lixor.se/section/team-lixor/</link>
-      <pubDate>Sun, 25 Dec 2016 22:30:39 +0100</pubDate>
+      <title>team-lixor</title>
+      <link>https://lixor-ab.github.io/team-lixor/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
       
-      <guid>http://www.lixor.se/section/team-lixor/</guid>
-      <description>&lt;h2 id=&#34;team-lixor&#34;&gt;Team Lixor.&lt;/h2&gt;
+      <guid>https://lixor-ab.github.io/team-lixor/</guid>
+      <description>
+
+&lt;h2 id=&#34;team-lixor&#34;&gt;Team Lixor.&lt;/h2&gt;
 
 &lt;p&gt;Med Lixor får du rätt känsla och driv i projekten – kunskapen får du på köpet.
-Kolla in de som jobbar här.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;team-member team-member-ylva&#34;&gt;
-
-  &lt;div class=&#34;team-member-photo&#34;&gt;
-    &lt;a href=&#34;https://se.linkedin.com/in/ylvafredriksson&#34;&gt;
-      &lt;img src=&#34;media/image/ylva.jpg&#34;&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;h3 id=&#34;ylva-fredriksson&#34;&gt;Ylva Fredriksson&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;“Hur gör vi det här 100 gånger bättre samtidigt som vi har kul”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:ylva.fredriksson@lixor.se&#34;&gt;ylva.fredriksson@lixor.se&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;tel:+46739853353&#34;&gt;073-985 33 53&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-&lt;div class=&#34;team-member team-member-rut&#34;&gt;
-
-  &lt;div class=&#34;team-member-photo&#34;&gt;
-    &lt;a href=&#34;https://se.linkedin.com/in/rutandersson&#34;&gt;
-      &lt;img src=&#34;media/image/rut.jpg&#34;&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;h3 id=&#34;rut-andersson&#34;&gt;Rut Andersson&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Orädd effektmakare med systembaserat ledarskap och sociala medier som bread n butter.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:rut.anderson@lixor.se&#34;&gt;rut.anderson@lixor.se&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;tel:+46708779756&#34;&gt;070-877 97 56&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-&lt;div class=&#34;team-member team-member-torfinn&#34;&gt;
-
-  &lt;div class=&#34;team-member-photo&#34;&gt;
-    &lt;a href=&#34;https://se.linkedin.com/in/torfinn&#34;&gt;
-      &lt;img src=&#34;media/image/torfinn.jpg&#34;&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;h3 id=&#34;torfinn-almers&#34;&gt;Torfinn Almers&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Tänkande och visualiserande designleder vars bidrag alltid förhöjer resultatet.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:torfinn.almers@lixor.se&#34;&gt;torfinn.almers@lixor.se&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;tel:+46707659464&#34;&gt;070-765 94 64&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-
-&lt;div class=&#34;team-member team-member-lisbeth&#34;&gt;
-
-  &lt;div class=&#34;team-member-photo&#34;&gt;
-    &lt;a href=&#34;https://se.linkedin.com/in/?&#34;&gt;
-      &lt;img src=&#34;media/image/lisbeth.jpg&#34;&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;h3 id=&#34;lisbeth-hedberg&#34;&gt;Lisbeth Hedberg&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;“Varför nöja sig med en häst när du kan rida in på en enhörning”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:lisbeth.hedberg@lixor.se&#34;&gt;lisbeth.hedberg@lixor.se&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;tel:+46707659464&#34;&gt;070-765 94 64&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;/div&gt;
-&lt;/p&gt;</description>
+Kolla in de som jobbar här.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
