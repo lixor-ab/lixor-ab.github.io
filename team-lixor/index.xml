@@ -17,11 +17,9 @@
       <guid>https://lixor-ab.github.io/team-lixor/ylva/</guid>
       <description>
 
-&lt;div class=&#34;team-member-photo&#34;&gt;
-  &lt;a href=&#34;https://se.linkedin.com/in/ylvafredriksson&#34;&gt;
-    &lt;img src=&#34;media/image/ylva.jpg&#34;&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+&lt;a href=&#34;https://se.linkedin.com/in/ylvafredriksson&#34; class=&#34;team-member-photo&#34;&gt;
+  &lt;img src=&#34;media/image/ylva.jpg&#34;&gt;
+&lt;/a&gt;
 
 
 &lt;h3 id=&#34;ylva-fredriksson&#34;&gt;Ylva Fredriksson&lt;/h3&gt;
@@ -45,14 +43,12 @@
       <guid>https://lixor-ab.github.io/team-lixor/rut/</guid>
       <description>
 
-&lt;div class=&#34;team-member-photo&#34;&gt;
-  &lt;a href=&#34;https://se.linkedin.com/in/rutandersson&#34;&gt;
-    &lt;img src=&#34;media/image/rut.jpg&#34;&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+&lt;a href=&#34;https://se.linkedin.com/in/rutanderson&#34; class=&#34;team-member-photo&#34;&gt;
+  &lt;img src=&#34;media/image/rut.jpg&#34;&gt;
+&lt;/a&gt;
 
 
-&lt;h3 id=&#34;rut-andersson&#34;&gt;Rut Andersson&lt;/h3&gt;
+&lt;h3 id=&#34;rut-anderson&#34;&gt;Rut Anderson&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Orädd effektmakare med systembaserat ledarskap och sociala medier som bread n butter.&lt;/p&gt;
@@ -73,11 +69,9 @@
       <guid>https://lixor-ab.github.io/team-lixor/torfinn/</guid>
       <description>
 
-&lt;div class=&#34;team-member-photo&#34;&gt;
-  &lt;a href=&#34;https://se.linkedin.com/in/torfinn&#34;&gt;
-    &lt;img src=&#34;media/image/torfinn.jpg&#34;&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+&lt;a href=&#34;https://se.linkedin.com/in/torfinn&#34; class=&#34;team-member-photo&#34;&gt;
+  &lt;img src=&#34;media/image/torfinn.jpg&#34;&gt;
+&lt;/a&gt;
 
 
 &lt;h3 id=&#34;torfinn-almers&#34;&gt;Torfinn Almers&lt;/h3&gt;
@@ -101,11 +95,9 @@
       <guid>https://lixor-ab.github.io/team-lixor/lisbeth/</guid>
       <description>
 
-&lt;div class=&#34;team-member-photo&#34;&gt;
-  &lt;a href=&#34;https://se.linkedin.com/in/?&#34;&gt;
-    &lt;img src=&#34;media/image/lisbeth.jpg&#34;&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+&lt;a href=&#34;https://se.linkedin.com/in/lisbeth-hedberg-a75aa11&#34; class=&#34;team-member-photo&#34;&gt;
+  &lt;img src=&#34;media/image/lisbeth.jpg&#34;&gt;
+&lt;/a&gt;
 
 
 &lt;h3 id=&#34;lisbeth-hedberg&#34;&gt;Lisbeth Hedberg&lt;/h3&gt;

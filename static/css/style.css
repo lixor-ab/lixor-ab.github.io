@@ -365,11 +365,12 @@ blockquote {
 
 
 /* TODO: page margins needs to be a var! :) */
-/* TODO: this only looks good on a screen where the photo fills the entire width */
+/* TODO: this only looks good on a screen where the photo fills the entire width ? */
 .team-member-photo {
   margin: 0 -30px;
   margin: 0 -1.5rem;
   position: relative;
+  display: block;
 }
 
 .team-member-photo:after {
