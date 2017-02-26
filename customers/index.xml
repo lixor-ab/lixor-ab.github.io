@@ -18,7 +18,7 @@
       <description>
 
 &lt;div class=&#34;image-container customer-logo customer-logo--skandia&#34;&gt;
-  &lt;img src=&#34;media/logo/skandia.svg&#34;&gt;
+  &lt;img src=&#34;assets/media/logo/skandia.svg&#34;&gt;
 &lt;/div&gt;
 
 
@@ -45,7 +45,7 @@
       <description>
 
 &lt;div class=&#34;image-container customer-logo&#34;&gt;
-  &lt;img src=&#34;media/logo/spotify.svg&#34;&gt;
+  &lt;img src=&#34;assets/media/logo/spotify.svg&#34;&gt;
 &lt;/div&gt;
 
 
@@ -73,7 +73,7 @@
       <description>
 
 &lt;div class=&#34;image-container customer-logo&#34;&gt;
-  &lt;img src=&#34;media/logo/klarna.svg&#34;&gt;
+  &lt;img src=&#34;assets/media/logo/klarna.svg&#34;&gt;
 &lt;/div&gt;
 
 
@@ -99,7 +99,7 @@
       <description>
 
 &lt;div class=&#34;image-container customer-logo&#34;&gt;
-  &lt;img src=&#34;media/logo/bonnier.svg&#34;&gt;
+  &lt;img src=&#34;assets/media/logo/bonnier.svg&#34;&gt;
 &lt;/div&gt;
 
 
@@ -126,7 +126,7 @@
       <description>
 
 &lt;div class=&#34;image-container customer-logo&#34;&gt;
-  &lt;img src=&#34;media/logo/expressen.svg&#34;&gt;
+  &lt;img src=&#34;assets/media/logo/expressen.svg&#34;&gt;
 &lt;/div&gt;
 
 
