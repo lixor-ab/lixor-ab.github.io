@@ -10,6 +10,33 @@
     <atom:link href="https://lixor-ab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>skandia</title>
+      <link>https://lixor-ab.github.io/customers/skandia/</link>
+      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
+      
+      <guid>https://lixor-ab.github.io/customers/skandia/</guid>
+      <description>
+
+&lt;div class=&#34;image-container customer-logo customer-logo--skandia&#34;&gt;
+  &lt;img src=&#34;assets/media/logo/skandia.svg&#34;&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;skandia&#34;&gt;Skandia&lt;/h3&gt;
+
+&lt;p&gt;Skandias marknadsavdelning stod inför en agil transformation. Så här kickstartade vi deras nya agila arbetsätt:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Utbilda inom agilt och leant med upplevelsebaserat lärande.&lt;/li&gt;
+&lt;li&gt;Ta fram mätbara mål och en 12-veckorsplan tillsammans med ledningsgruppen.&lt;/li&gt;
+&lt;li&gt;Coacha o bolla med ledningsgruppen så att de kunde fortsätta driva processen själva.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:lixor@lixor.se?subject=ber%C3%A4tta%20mer&amp;amp;body=Hej%20Team%20Lixor!%20Jag%20vill%20g%C3%A4rna%20veta%20mer%20om%20hur%20ni%20arbetar.%20H%C3%B6r%20av%20er%20till%20mig%2C%20V%C3%A4nliga%20h%C3%A4lsningar%20(ditt%20namn%20h%C3%A4r)&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>small</title>
       <link>https://lixor-ab.github.io/offer/small/</link>
       <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
@@ -19,43 +46,14 @@
 
 &lt;h3 id=&#34;small&#34;&gt;Small&lt;/h3&gt;
 
-&lt;p&gt;One day where we togeter:&lt;/p&gt;
+&lt;p&gt;En heldag där vi:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Create a roadmap from one concrete case&lt;/li&gt;
-&lt;li&gt;Workshop aroung experience based learning&lt;/li&gt;
+&lt;li&gt;Tillsammans skapar en roadmap utifrån ett konkret case&lt;/li&gt;
+&lt;li&gt;Håller en workshop med upplevelsebaserat lärande&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?subject=Tell%20me%20more!&amp;amp;body=Hi!%20Please%20contact%20me%20so%20we%20can%20have%20coffe%20and%20talk%20about%20agile%20ways%20of%20working.&#34;&gt;Tell me more!&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>spotify</title>
-      <link>https://lixor-ab.github.io/customers/spotify/</link>
-      <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
-      
-      <guid>https://lixor-ab.github.io/customers/spotify/</guid>
-      <description>
-
-&lt;div class=&#34;image-container customer-logo&#34;&gt;
-  &lt;img src=&#34;assets/media/logo/spotify.svg&#34;&gt;
-&lt;/div&gt;
-
-
-&lt;h3 id=&#34;spotify&#34;&gt;Spotify&lt;/h3&gt;
-
-&lt;p&gt;Spotify is one of Sweden’s fastest growing young businesses. Their organization has reached success by working agile in a prestigeless fashion. Lixor supports Spotify with:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Agile coaching&lt;/li&gt;
-&lt;li&gt;Creating a goal driven processes with clear accountability and set targets&lt;/li&gt;
-&lt;li&gt;Education in change management on a systemic level&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Watch &lt;a href=&#34;https://www.youtube.com/watch?v=Mpsn3WaI_4k&#34;&gt;Spotify Engineering Culture part 1 here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?subject=Tell%20me%20more!&amp;amp;body=Hi!%20Please%20contact%20me%20so%20we%20can%20have%20coffe%20and%20talk%20about%20agile%20ways%20of%20working&#34;&gt;Tell me more!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?subject=Ber%C3%A4tta%20om%20Small&amp;amp;body=Hej%20Team%20Lixor!%20Jag%20vill%20g%C3%A4rna%20att%20ni%20h%C3%B6r%20av%20er%20till%20mig%20och%20ber%C3%A4ttar%20mer%20om%20Lixor%20Small.%20V%C3%A4nliga%20H%C3%A4lsningar%20(ditt%20namn%20h%C3%A4r)&#34;&gt;Berätta mer!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -75,7 +73,7 @@
 &lt;h3 id=&#34;ylva-fredriksson&#34;&gt;Ylva Fredriksson&lt;/h3&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;““How can we improve this 100% whilst having fun?”&lt;/p&gt;
+&lt;p&gt;“Hur gör vi det här 100 gånger bättre samtidigt som vi har kul”&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -95,9 +93,9 @@
 
 &lt;h3 id=&#34;medium&#34;&gt;Medium&lt;/h3&gt;
 
-&lt;p&gt;A 12 week program for agile transformation&lt;/p&gt;
+&lt;p&gt;Ett 12-veckorsprogram för agil transformation&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?subject=Tell%20me%20more!&amp;amp;body=Hi!%20Please%20contact%20me%20so%20we%20can%20have%20coffe%20and%20talk%20about%20agile%20ways%20of%20working&#34;&gt;Tell me more!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?subject=Ber%C3%A4tta%20om%20Medium&amp;amp;body=Hej%20Team%20Lixor!%20Jag%20vill%20g%C3%A4rna%20att%20ni%20h%C3%B6r%20av%20er%20till%20mig%20och%20ber%C3%A4ttar%20mer%20om%20Lixor%20Medium.%20V%C3%A4nliga%20H%C3%A4lsningar%20(ditt%20namn%20h%C3%A4r)&#34;&gt;Berätta mer!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -117,7 +115,7 @@
 &lt;h3 id=&#34;rut-anderson&#34;&gt;Rut Anderson&lt;/h3&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Fearless. System based leadership and social media expert&lt;/p&gt;
+&lt;p&gt;Orädd effektmakare med systembaserat ledarskap och sociala medier som bread n butter.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -128,29 +126,30 @@
     </item>
     
     <item>
-      <title>skandia</title>
-      <link>https://lixor-ab.github.io/customers/skandia/</link>
+      <title>spotify</title>
+      <link>https://lixor-ab.github.io/customers/spotify/</link>
       <pubDate>Sat, 04 Feb 2017 20:11:12 +0100</pubDate>
       
-      <guid>https://lixor-ab.github.io/customers/skandia/</guid>
+      <guid>https://lixor-ab.github.io/customers/spotify/</guid>
       <description>
 
-&lt;div class=&#34;image-container customer-logo customer-logo--skandia&#34;&gt;
-  &lt;img src=&#34;assets/media/logo/skandia.svg&#34;&gt;
+&lt;div class=&#34;image-container customer-logo&#34;&gt;
+  &lt;img src=&#34;assets/media/logo/spotify.svg&#34;&gt;
 &lt;/div&gt;
 
 
-&lt;h3 id=&#34;skandia&#34;&gt;Skandia&lt;/h3&gt;
+&lt;h3 id=&#34;spotify&#34;&gt;Spotify&lt;/h3&gt;
 
-&lt;p&gt;The marketing department of Skandia were about to embark on an agile transformation. These are some of the steps we took to kickstart their agile way of working.&lt;/p&gt;
+&lt;p&gt;Spotify är en av Sveriges snabbst växande unga företag med en agil organisation som nått framgång genom att arbeta på ett agilt och prestigelöst sätt. Lixor hjälper Spotify med:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Agile and lean training focusing on experience based learning&lt;/li&gt;
-&lt;li&gt;Structure a 12 week plan consisting of measurable goals together with the steering group&lt;/li&gt;
-&lt;li&gt;Setting up workflow in order for the steering group to maintain the process themselves&lt;/li&gt;
+&lt;li&gt;Agil coachning.&lt;/li&gt;
+&lt;li&gt;Skapa tydlighet och mening genom att arbeta måldrivet med tydlig uppföljning.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?subject=Tell%20me%20more!&amp;amp;body=Hi!%20Please%20contact%20me%20so%20we%20can%20have%20coffe%20and%20talk%20about%20agile%20ways%20of%20working&#34;&gt;Tell me more!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Se videon &lt;a href=&#34;https://www.youtube.com/watch?v=Mpsn3WaI_4k&#34;&gt;Spotify Engineering Culture part 1 här&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:lixor@lixor.se?subject=ber%C3%A4tta%20mer&amp;amp;body=Hej%20Team%20Lixor!%20Jag%20vill%20g%C3%A4rna%20veta%20mer%20om%20hur%20ni%20arbetar.%20H%C3%B6r%20av%20er%20till%20mig%2C%20V%C3%A4nliga%20h%C3%A4lsningar%20(ditt%20namn%20h%C3%A4r)&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -169,14 +168,14 @@
 
 &lt;h3 id=&#34;klarna&#34;&gt;Klarna&lt;/h3&gt;
 
-&lt;p&gt;Klarna is one of the leading fintech companies in the Nordic and keep on growing while maintaining profitability. Lixor have contributed in the company by:&lt;/p&gt;
+&lt;p&gt;Klarna är ledande inom fintech och växer riktigt snabbt med bibehållen lönsamhet. Lixor har bidragit till detta genom att:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Delivering a top priority project on time and within budget&lt;/li&gt;
-&lt;li&gt;Set up a workflow that is now a standardized way of running initiatives.&lt;/li&gt;
+&lt;li&gt;Leverera Klarnas högst prioriterade projekt på tid och budget.&lt;/li&gt;
+&lt;li&gt;Lixors arbetssätt blev grunden för ett standardiserat sätt att jobba med projekt.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?subject=Tell%20me%20more!&amp;amp;body=Hi!%20Please%20contact%20me%20so%20we%20can%20have%20coffe%20and%20talk%20about%20agile%20ways%20of%20working&#34;&gt;Tell me more!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:lixor@lixor.se?subject=ber%C3%A4tta%20mer&amp;amp;body=Hej%20Team%20Lixor!%20Jag%20vill%20g%C3%A4rna%20veta%20mer%20om%20hur%20ni%20arbetar.%20H%C3%B6r%20av%20er%20till%20mig%2C%20V%C3%A4nliga%20h%C3%A4lsningar%20(ditt%20namn%20h%C3%A4r)&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -190,9 +189,10 @@
 
 &lt;h3 id=&#34;mixor&#34;&gt;Mixor&lt;/h3&gt;
 
-&lt;p&gt;Add one or more of our consultants to the organization if you want to grow and see results!&lt;/p&gt;
+&lt;p&gt;Ta in en eller flera av våra konsulter i din organisation om du vill växa och
+se resultat!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?subject=Tell%20me%20more!&amp;amp;body=Hi!%20Please%20contact%20me%20so%20we%20can%20have%20coffe%20and%20talk%20about%20agile%20ways%20of%20working&#34;&gt;Tell me more!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?subject=Ber%C3%A4tta%20om%20Mixor&amp;amp;body=Hej%20Team%20Lixor!%20Jag%20vill%20g%C3%A4rna%20att%20ni%20h%C3%B6r%20av%20er%20till%20mig%20och%20ber%C3%A4ttar%20mer%20om%20Lixor%20Mixor.%20V%C3%A4nliga%20H%C3%A4lsningar%20(ditt%20namn%20h%C3%A4r)&#34;&gt;Berätta mer!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -212,7 +212,7 @@
 &lt;h3 id=&#34;torfinn-almers&#34;&gt;Torfinn Almers&lt;/h3&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Thinking and visualizing design lead Whos every contribution excels the result.&lt;/p&gt;
+&lt;p&gt;Tänkande och visualiserande designleder vars bidrag alltid förhöjer resultatet.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -237,15 +237,15 @@
 
 &lt;h3 id=&#34;bonnier&#34;&gt;Bonnier&lt;/h3&gt;
 
-&lt;p&gt;Bonnier ran an initiative to create a digital product focused on e-books and audiobooks for children. Lixor was a key player by contributing with:&lt;/p&gt;
+&lt;p&gt;Bonnier ville ta fram en ny digital produkt för barn med eböcker och ljudböcker. Lixor gjorde detta genom att:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Agile and lean training focusing on experience driven learning&lt;/li&gt;
-&lt;li&gt;Structure a 12 week plan consisting of measurable goals together with the steering group&lt;/li&gt;
-&lt;li&gt;Setting up workflow in order for the steering group to maintain the process themselves&lt;/li&gt;
+&lt;li&gt;Bygga ett litet tvärfunktionellt team för product disocovery och utveckling.&lt;/li&gt;
+&lt;li&gt;Lean UX med användartester varje vecka.&lt;/li&gt;
+&lt;li&gt;Prototyper, agil plannering och många skratt.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?subject=Tell%20me%20more!&amp;amp;body=Hi!%20Please%20contact%20me%20so%20we%20can%20have%20coffe%20and%20talk%20about%20agile%20ways%20of%20working&#34;&gt;Tell me more!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:lixor@lixor.se?subject=ber%C3%A4tta%20mer&amp;amp;body=Hej%20Team%20Lixor!%20Jag%20vill%20g%C3%A4rna%20veta%20mer%20om%20hur%20ni%20arbetar.%20H%C3%B6r%20av%20er%20till%20mig%2C%20V%C3%A4nliga%20h%C3%A4lsningar%20(ditt%20namn%20h%C3%A4r)&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -265,7 +265,7 @@
 &lt;h3 id=&#34;lisbeth-hedberg&#34;&gt;Lisbeth Hedberg&lt;/h3&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;“Why set on a horse when you can ride in on a unicorn?”&lt;/p&gt;
+&lt;p&gt;“Varför nöja sig med en häst när du kan rida in på en enhörning”&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -290,15 +290,15 @@
 
 &lt;h3 id=&#34;expressen&#34;&gt;Expressen&lt;/h3&gt;
 
-&lt;p&gt;In less than a year we successfully built an agile development team from 0 to 50 employees consisting of 7 cross functional teams. Lixor contributed by:&lt;/p&gt;
+&lt;p&gt;På mindre än ett år byggde vi en agil utvecklingsavdelning från 0 till 50 anställda och 7 tvärfuktionella team. Lixor bidrog till detta genom att:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Coaching the organization&lt;/li&gt;
-&lt;li&gt;Help the steering group to work goal oriented with a 12 week plan and close follow ups&lt;/li&gt;
-&lt;li&gt;Talent management&lt;/li&gt;
+&lt;li&gt;Coacha organisationen.&lt;/li&gt;
+&lt;li&gt;Hjälpa ledningsgruppen arbeta måldrivet med en 12-veckorsplan och täta uppföljningar.&lt;/li&gt;
+&lt;li&gt;Talent management (hitta, rekrytera och behålla kollegor).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:team@lixor.se?subject=Tell%20me%20more!&amp;amp;body=Hi!%20Please%20contact%20me%20so%20we%20can%20have%20coffe%20and%20talk%20about%20agile%20ways%20of%20working&#34;&gt;Tell me more!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:lixor@lixor.se?subject=ber%C3%A4tta%20mer&amp;amp;body=Hej%20Team%20Lixor!%20Jag%20vill%20g%C3%A4rna%20veta%20mer%20om%20hur%20ni%20arbetar.%20H%C3%B6r%20av%20er%20till%20mig%2C%20V%C3%A4nliga%20h%C3%A4lsningar%20(ditt%20namn%20h%C3%A4r)&#34;&gt;Jag vill veta mer!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
